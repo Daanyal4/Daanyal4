@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daanyal Vali</h1>
 <h3 align="center">An engineering student with a keen interest in cybersecurity</h3>
 
-- 🔭 I’m really intrigued by the world of cybersecurity and love exploring it **.**
+- 🔭 I’m really intrigued by the world of cybersecurity and cloud computing and love exploring it **.**
 
-- 🌱 I’m currently learning **Python and scapy**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **daanyalvali4@gmail.com**
 
